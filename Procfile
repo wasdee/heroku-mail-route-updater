@@ -1,1 +1,1 @@
-release: mailgun routes
+clock: mailgun routes
